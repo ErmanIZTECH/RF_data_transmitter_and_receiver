@@ -8,5 +8,6 @@ Amplitude Modulation has been used.
  ## Circuitry parts
  ### Colpits Oscillator
  With a center frequency 2.2MHz Colpits oscillator design with a buffer. 
+ ![colpitts](https://github.com/ErmanIZTECH/RF_data_transmitter_and_receiver/blob/master/image.png)
  
  
