@@ -36,3 +36,4 @@ Amplitude Modulation has been utilized to transfer the data.
   ## Antenna
   * Simple cable antenna can be used however the ideal length for this frequency is too large therefore in order to match the shorter antenna to the circuit it had to be matched with inductors 
   * With few trials on different inducotrs and applying a curve fitting on gain values shows the ideal inductor value for your antenna.
+  * Simply connect the inductors in series to the antenna.
