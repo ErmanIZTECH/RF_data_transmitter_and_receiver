@@ -10,6 +10,7 @@ Amplitude Modulation has been used.
  With a center frequency 2.2MHz Colpits oscillator design with a buffer. 
  
  ![colpitts](https://github.com/ErmanIZTECH/RF_data_transmitter_and_receiver/blob/master/colpitts.PNG?raw=true)
+ Where Ct is the Carrier Signal
  ### Data Interface
  The data transferred to the transmitter or from receiver by USB to TTL converters.
  
