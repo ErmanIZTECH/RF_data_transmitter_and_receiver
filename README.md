@@ -3,7 +3,7 @@ The main aim of this project is to construct a short-range (min:5m) RF DATA
 transmitter operating at 2.2MHz center frequency and receiver device.
 
 ### Modulation Method
-Amplitude Modulation has been used. 
+Amplitude Modulation has been utilized to transfer the data. 
  
  ## Circuitry parts
  ### Colpits Oscillator
