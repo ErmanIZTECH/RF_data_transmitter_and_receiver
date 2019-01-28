@@ -8,7 +8,7 @@ Amplitude Modulation has been used.
  ## Circuitry parts
  ### Colpits Oscillator
  With a center frequency 2.2MHz Colpits oscillator design with a buffer. 
- ![colpitts](https://github.com/ErmanIZTECH/RF_data_transmitter_and_receiver/blob/master/colpitts.png)
+ ![colpitts](https://github.com/ErmanIZTECH/RF_data_transmitter_and_receiver/colpitts.png)
  ### Data Interface
  The data transferred to the transmitter or from receiver by USB to TTL converters.
- ![USBTTL](https://github.com/ErmanIZTECH/RF_data_transmitter_and_receiver/blob/master/USB_TTL.png)
+ ![USBTTL](https://github.com/ErmanIZTECH/RF_data_transmitter_and_receiver/USB_TTL.png)
