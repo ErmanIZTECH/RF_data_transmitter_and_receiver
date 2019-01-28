@@ -21,7 +21,7 @@ Amplitude Modulation has been utilized to transfer the data.
  ### Data Interface
  The data transferred to the transmitter or from receiver by USB to TTL converters.
  
- ![USBTTL](https://github.com/ErmanIZTECH/RF_data_transmitter_and_receiver/blob/master/Images/USB_TTL.PNG?raw=true" "width="400">
+ <img src="https://github.com/ErmanIZTECH/RF_data_transmitter_and_receiver/blob/master/Images/USB_TTL.PNG?raw=true" "width="400">
  
  
   ### Amplitude Modulator
