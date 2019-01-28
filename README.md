@@ -2,7 +2,7 @@
 The main aim of this project is to construct a short-range (min:5m) RF DATA
 transmitter operating at 2.2MHz center frequency and receiver device.
 
-![BOARD](https://github.com/ErmanIZTECH/RF_data_transmitter_and_receiver/blob/master/Images/transceiver.PNG?raw=true&s=500)
+<img src="https://github.com/ErmanIZTECH/RF_data_transmitter_and_receiver/blob/master/Images/transceiver.PNG?raw=true" width="48">
 
 You can access the Detailed Report for this project from the link below.
 
